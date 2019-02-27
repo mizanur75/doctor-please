@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /*.swf
+Disallow: /*/?
+Disallow: /*/trackback/
+Disallow: /patient-profile/
+Disallow: /patient-request/
+Disallow: /doctor-profile/
+Disallow: /home
+Disallow: /generate/
